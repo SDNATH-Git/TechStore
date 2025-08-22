@@ -20,10 +20,6 @@ Users can view public pages and access protected pages after login.
 
 ---
 
-
-
----
-
 ## Features
 
 - Public landing page with navbar, hero section, product highlights, and footer.  
